@@ -15,5 +15,10 @@ git clone git@github.com:pip-services3-dart/pip-services3-couchbase-dart.git
 git clone git@github.com:pip-services3-dart/pip-services3-memcached-dart.git
 git clone git@github.com:pip-services3-dart/pip-services3-redis-dart.git
 git clone git@github.com:pip-services3-dart/pip-services3-rabbitmq-dart.git
+git clone git@github.com:pip-services3-dart/pip-services3-aws-dart.git
+git clone git@github.com:pip-services3-dart/pip-services3-expressions-dart.git
+git clone git@github.com:pip-services3-dart/pip-services3-swagger-dart.git
+git clone git@github.com:pip-services3-dart/pip-services3-mysql-dart.git
+git clone git@github.com:pip-services3-dart/pip-services3-postgres-dart.git
 
 git clone git@github.com:pip-templates/pip-templates-microservice-dart.git
